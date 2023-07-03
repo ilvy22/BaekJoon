@@ -1,1 +1,1 @@
-# LGE Software Coding Test Practice
+# BaekJoon Coding Problem Solve
