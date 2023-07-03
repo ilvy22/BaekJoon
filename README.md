@@ -1,1 +1,1 @@
-# CodingTest
+# LGE Software Coding Test Practice
